@@ -13,3 +13,7 @@ P
  contracts/territory-mapping.clar,a/8/a81921130f20cbfb7ec3251ae1cf146198529538
 O
 tests/territory-mapping.test.ts,0/a/0a6c7a45d690d79906ec80b6e070ee2972322992
+K
+contracts/usage-rights.clar,8/0/806ac7498cd68fd4e7051a5f2558c7ce38a438ea
+J
+tests/usage-rights.test.ts,5/b/5b49184c6f34ff7ca6c77c99aa2b5630c99c8ee0
