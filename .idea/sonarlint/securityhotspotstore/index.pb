@@ -9,3 +9,7 @@ U
 %contracts/community-verification.clar,0/b/0bad3c70a88a99fa76f562704974892902152dad
 T
 $tests/community-verification.test.ts,8/0/806d5d38d2c15c8fb647edeb1cceefe744117d02
+P
+ contracts/territory-mapping.clar,a/8/a81921130f20cbfb7ec3251ae1cf146198529538
+O
+tests/territory-mapping.test.ts,0/a/0a6c7a45d690d79906ec80b6e070ee2972322992
